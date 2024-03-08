@@ -1,0 +1,2 @@
+* monitor-home
+Monitors the $HOME directory, sending notifications when any new files are created in it. Used so that I know when something is polluting my $HOME.
